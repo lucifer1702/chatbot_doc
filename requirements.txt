@@ -1,0 +1,12 @@
+langchain
+openai
+langchain-community
+chainlit
+asyncio
+tiktoken
+faiss-cpu
+pypdf
+langchain-openai
+streamlit>=1.20.0
+alt-profanity-check
+guardrails-ai

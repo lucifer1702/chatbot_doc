@@ -102,3 +102,6 @@ This project implements a chatbot with memory, leveraging a Retrieval-Augmented 
 * Add **guardrails** for profanity filtering and better validation.
 * Improve chatbot memory for long conversations.
 * Support additional file formats beyond PDF.
+
+video explanation :
+https://share.vidyard.com/watch/hp5rt8DtsBLX8NL5SKvjKH?
